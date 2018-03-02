@@ -37,6 +37,8 @@ A one page application made with Bootstrap 3 that integrates 4 sections:
 ### Functionality:
 * Cool hover & focus effects for a better UX
 
+<br>
+
 ## Preview
 * [Live Preview](https://vladb.uk/PersonalWebsiteV1)
 
