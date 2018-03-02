@@ -43,8 +43,7 @@ A one page application made with Bootstrap 3 that integrates 4 sections:
 * [Live Preview](https://vladb.uk/PersonalWebsiteV1)
 
 ## Installing
-Being just a static template, all you need to do is to `Clone/Download` the repository
-from [here](https://github.com/vladbbr/PersonalWebsiteV1) into your machine and then open `index.html` using your browser.
+Being just a static template, all you need to do is to `Clone/Download` this repository into your machine and then open `index.html` using your browser.
 
 ## Technologies Used
 * [Bootstrap 3](https://getbootstrap.com/docs/3.3/)
