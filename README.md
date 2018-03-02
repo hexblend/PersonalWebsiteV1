@@ -9,12 +9,16 @@ A one page application made with Bootstrap 3 that integrates 4 sections:
 * A button to smoothly scroll to Portfolio Section
 * A responsive background with myself  
 
+<br>
+
 ## 2.About Section
 ### Contains:
 * Section title
 * A small paragraph that described me at that point
 * Social Media Links
 * A responsive background with myself
+
+<br>
 
 ## 3.Portfolio Section
 ### Contains:
@@ -23,6 +27,8 @@ A one page application made with Bootstrap 3 that integrates 4 sections:
 * You can switch between projects using a touchscreen
 * Every project has it's own 2 individuals buttons: Details and Live Preview
 * When clicked on Details a Modal is opened, so no refresh :)
+
+<br>
 
 ## 4.Contact Section
 ### Contains:
