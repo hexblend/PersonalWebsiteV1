@@ -1,5 +1,5 @@
 # Personal Website V1
-![](preview.png)
+![](preview.jpg)
 A one page application made with Bootstrap 3 that integrates 4 sections:
 
 ## 1.Home Section
